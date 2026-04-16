@@ -1,4 +1,3 @@
-cat > output.md << 'EOF'
 # 📊 Sample Outputs
 
 > These outputs demonstrate that the SQL and PL/SQL code executes correctly.
